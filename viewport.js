@@ -55,17 +55,17 @@ body {font-family: Arial;}
 </div>
 
 <div id="About" class="tabcontent">
-  <h3>London</h3>
+  <h3>About</h3>
   <p>London is the capital city of England.</p>
 </div>
 
 <div id="Resume" class="tabcontent">
-  <h3>Paris</h3>
+  <h3>Resume</h3>
   <p>Paris is the capital of France.</p> 
 </div>
 
 <div id="Projects" class="tabcontent">
-  <h3>Tokyo</h3>
+  <h3>Resume</h3>
   <p>Tokyo is the capital of Japan.</p>
 </div>
 
