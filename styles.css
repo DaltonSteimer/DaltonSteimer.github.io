@@ -7,3 +7,15 @@ P {
 }
 
 <p class="normal-text">This text is going to be 18px.</p>
+
+body {
+  color: red;
+}
+
+h1 {
+  color: #00ff00;
+}
+
+p.ex {
+  color: rgb(0,0,255);
+}
