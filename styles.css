@@ -1,3 +1,9 @@
 P {
     font-size: 18px;
 }
+
+.normal-text {
+    font-size: 18px;
+}
+
+<p class="normal-text">This text is going to be 18px.</p>
