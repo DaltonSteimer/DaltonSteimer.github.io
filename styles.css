@@ -1,21 +1,12 @@
-P {
-    font-size: 18px;
-}
-
-.normal-text {
-    font-size: 18px;
-}
-
-<p class="normal-text">This text is going to be 18px.</p>
-
 body {
-  color: red;
+  background-color: black;
 }
-
 h1 {
-  color: #00ff00;
+  color: white;
 }
-
-p.ex {
-  color: rgb(0,0,255);
+h2 {
+  color: white
+}
+p {
+  color: white;
 }
