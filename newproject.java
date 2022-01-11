@@ -7,7 +7,7 @@ public class WriteToFileExample {
   public static void main(String[] args) {
                 {
                  
-                      system.out.println("hi")
+                      system.out.println("hi");
                  }
   }
 }
