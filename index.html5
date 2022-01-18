@@ -1,0 +1,86 @@
+<!doctype html>
+<html lang= en>
+  <head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="styles.css">
+    <title> Dalton Steimer </title>
+  </head>
+  <body>
+    <h1> <marquee behavior="scroll"direction="left"> Dalton Steimer's Website </marquee> </h1>
+    <p> My First Website! </p>
+    <h2> About me </h2>
+ <pre> 
+Born and raised in Metro Detroit area, Michigan. Lived in Colorado for a year. Currently live in Florida.
+ I moved to colorado because I wanted a change. I did not want to spend my whole life in the same place. Decided that I love it!
+Some of my hobbies include Snowboarding, skatebording, hiking, traveling, being outdoors, and fitness.
+I have always had a passion in Technology with hardware. I enjoyed taking apart and building eltronic, figuring out what certain parts do.
+I wanted to branch out and learn about the software side of technology and I thought my best option for working with software technology was 
+to go back to school for a technology based degree. 
+</pre>
+<hr>
+    <h2> Resume </h2>
+    
+    <p> <b> Education </b> </p>
+    <p> <b> University of Florida, </b> <i> Hough Graduate School of Business </i> </p>                                            
+    <p> Expected Graduation: May 2023 </p>
+    <p> Masters of Science in Information Systems and Operating Management </p> 
+    <p> <small> Concentration: Information Technology </small> </p>
+    <p> <b> Central Michigan University, </b> <i> College of Business Admininstration </i> </p>
+    <P> Graduation: May 2019 </p>
+    <p> Bacholor's of Science in Business Administration </p>
+    <p> <small> Major: General management, Minor: Information Systems </small> </p> 
+    <p> <b> Oakland Community College </b> </p>
+    <p> Graduation: Decemeber 2016 </p>
+    <p> Non-Degree Program, Michigan Transfer Agreement </p>
+    <p> <small> Major: Business Administration </small> </p> 
+    
+    <p> <b> Work Expeirience </b> </p> 
+    <p> University of Florida, Gainesville Florida <i> December 2021 - Present </i> </p>
+    <p> Enrollment Services Student Assistant 
+      <p> OG Medicinals LLC, Denver Colorado <i> May 2020 - December 2020 </i> </p> 
+    <p> Inventory Packaging Assistant </p> 
+    <p>
+      OG Medicinals is a small family-owned dispensary and cultivation facility. Supported both package and sales teams to overreach daily goals. 
+    <ul>
+    <li> Completed daily audits of products ready to be sold and ran discrepancy reports of any missing inventory that was not 
+to be found, doing this accounted for 90% lost or misplaced inventory. </li>
+    <li> In took delivery manifests from third-party vendor and confirmed the correct inventory for the products that were to be 
+sold from the sales team in-store. </li> 
+    <li> Packaged and oversaw delivery manifests from cultivation to the dispensary of products worth over $10,000 that were 
+to be sold by the in-store sales team using the inventory that was sent to the package room from the cultivation team. </li>
+         </ul>
+         </p>
+    <p> TST Tooling Software Technology LLC, Clarkston Michigan <i> November 2019 - April 2020 </i> </p>
+    <p> Treva Corportion, Lake Orion Michigan <i> May 2018 - Augest 2018 </i> </p> 
+  <p>
+    TST is small family-owned engineering/IT firm that specialized in providing in-house CAD-CAM and ERP software to 
+global clients as well as providing impressive support for the software provided. 
+    <ul>
+<li> Maintained databases using Excel, Salesforce, and QuickBooks by processing customer and account source documents 
+into Customer Relationship Management (CRM) software, increasing data capture in the workplace by 30%. </li>
+<li> handled physical sale files and folders of clients who are or were subscribed to use the software provided by the firm 
+  by allocating the client’s files in the appropriate location within the firm. </li>
+<li> Assisted the Administration department with customer phone calls by directing the call to the correct department or 
+person that the customer was calling about, which resulted in a boasted 60% of customer satisfaction. </li>
+  </ul>
+  </p>
+    
+    <p> <b> Leadership & Involvement </b> </p> 
+    <p> Assocation for Information Systems, University of Florida <i> August 2021 - Present </i> </p> 
+    <p> Tau Kappa Epsilon Fraternity - Funraising Chairmen, Delta Omicron Chapter <i> Auguest 2018 - December 2018 </i> </p> 
+    <p> Tau Kappa Epsilon Fraternity - Interfraternity Council Chairmen, Delta Omicron Chapter <i> August 2017 - Decemeber 2017 </i> </p>
+    
+    <p> <b> Certifications </b> </p> 
+    <p> Lean Six Sigma - Green Belt certification, <i> Central Michigan University </i>
+    <p> Certified: May 2019 </p> 
+    <hr>
+    <h2> Projects </h2>
+    <p> No projects to disclose of yet. will Update Periodically. </p>
+  <hr>
+  <h2> Contact Information </h2>
+  <p> Email: DaltonSteimer@ufl.edu </p>
+  <p> Phone: (248) 977-0635 </p>
+   <a href="https://www.linkedin.com/in/dalton-steimer"> My LinkedIn profile Link! </a>
+  </body>
+</html>
+  
