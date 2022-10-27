@@ -1,4 +1,4 @@
-Class HomePage {
+Class Main {
   
   
 }
